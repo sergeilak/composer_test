@@ -2,8 +2,8 @@
 namespace sergeilakishik;
 public class Test {
   public function sayTest() {
-    echo 'test';
-    }
-  }
+    echo 'I don't like it all'
+    };
+  } 
 
 ?>
