@@ -1,10 +1,17 @@
 {
   
-  "name": "sergeilak/composer_test/new/main",
+  "name": "sergeilak/composer_test_minha",
   "version": "1.0.0",
-  "description":"this is a test package for learning",
+  "description":"this is a test package for learning, TMS",
   "license":"MIT",
+  "authors": [
+        {
+            "name": "Sergei Lakishik",
+            "email": "sergeilakishik@gmail.com",
+            "role": "Developer"
+        }
   
-
-
+],
+  
 }
+
