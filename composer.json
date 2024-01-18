@@ -1,7 +1,6 @@
 {
   
   "name": "sergeilak/composersergeilakishik",
-  "version": "1.0.0",
   "description":"this is a test package for learning, TMS",
   "license":"MIT",
   "autoload":  {
