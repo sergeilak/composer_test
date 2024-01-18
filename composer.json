@@ -4,14 +4,11 @@
   "version": "1.0.0",
   "description":"this is a test package for learning, TMS",
   "license":"MIT",
-  "authors": [
-        {
-            "name": "Sergei Lakishik",
-            "email": "sergeilakishik@gmail.com",
-            "role": "Developer"
-        }
-  
-]
+  "autoload":  {
+    "psr-4": { 
+    "sergeilakishik": "" 
+    }
+  },
   
 }
 
